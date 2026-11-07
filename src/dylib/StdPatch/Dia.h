@@ -75,3 +75,6 @@
 #define DPDiaTabListSeparator   "_TtC7TabList20TabListSeparatorView"
 #define DPDiaTabListCollection  "_TtCC7TabList11TabListView14CollectionView"
 #define DPDiaTabListLayout      "_TtC7TabList27TabListCollectionViewLayout"
+#define DPDiaAddressText        "_TtC13NavigationBar8TextView"  // The address field's text, in each tab's toolbar.
+#define DPDiaSidebarViewport    "_TtC10TabSidebarP33_4A67FA3C8324F2ECAC6E1F157A3ED50018PagingViewportView"  // Pages through the spaces' tabs.
+#define DPDiaSidebarPaging      "_TtGC10TabSidebar29PagingContainerViewControllerV11SpaceModels7SpaceID_"  // Sizes that viewport.
